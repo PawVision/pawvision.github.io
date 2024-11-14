@@ -1,0 +1,59 @@
+body {
+    background-image: url("/files/bg.jpg");
+    background-size: cover;
+}
+
+.con {
+    background-color: rgba(0, 0, 0, 0.37);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+.icon {
+    width: 24px; /* Adjust icon size */
+    height: auto;
+    margin-right: 10px; /* Space between icon and text */
+}
+
+
+.con2 {
+    background-color: rgba(0, 0, 0, 0.37);
+    width: 60%;
+    height: 5%;
+    margin: auto;
+}
+
+.con3 {
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.con4 {
+    background-color: rgba(0, 0, 0, 0.27);
+    color: blue;
+}
+
+p .text {
+    font-size: medium;
+    color: #ffffff;
+}
+
+p .devs {
+    font-size: large;
+    color: blue;
+}
+
+.con5 {
+    background-color: rgba(0, 0, 0, 0.27);
+    width: 100%;
+    height: 30%;
+    color: cadetblue;
+    overflow-y: scroll;
+}
+
+a:hover {
+    color: coral;
+}
